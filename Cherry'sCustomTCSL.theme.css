@@ -1,10 +1,10 @@
 //META{"name":"Cherry's Custom Theme","description":"Shy-Bomb theme made by Cherry#1518","author":"Cherry#1518","version":"1.0"}*//{}
-@import url(https://8xs4qxklp8.execute-api.us-east-2.amazonaws.com/release/gorawgit?giturl=/Demon-Cherry/Cherry'sCustomTheme/master/css/tcsl.css);
+@import url(https://gitcdn.link/repo/Demon-Cherry/Cherry-sTheme-master/master/css/tcsl.css);
 
 
 
 :root {
-   
+
     --background-image: url(https://i.imgur.com/xSbs4N8.png);
     --friends-icon: url(https://i.imgur.com/7sx3o0p.png);
     --friends-icon-position: center center;
@@ -15,11 +15,11 @@
     --hover-list-bg-color: rgba(255,255,255, .15);
     --border-lines-color: hsla(0,0%,100%,.1);
     --scroll-bar-color: rgba(255,20,147, .35);
-    --font-size: 16px; 
+    --font-size: 16px;
     --selected-text-voice-color: #f6f6f7;
     --text-hover-color: #ffffff;
     --voice-hover-color: #ffffff;
     --unread-text-color: #ff4444;
     --options-transparency: transparent;
-	
+
 }
